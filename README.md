@@ -1,4 +1,4 @@
-# BarclaysPremierLeagueTrivial
+# BarclaysPremierLeagueTrivia
 
 **Link to App Apk**
 https://drive.google.com/drive/u/0/folders/1vxGHoas2xWq9PX3HqV89p1hiVR-LCBbA
