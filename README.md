@@ -16,5 +16,6 @@ The goal is to create an app that educates the user about the history of the Eng
 7) Since the rebranding of the league in 1992, has Liverpool FC won any title? [ RadioButton ]
 8) Which team has the highest number of league titles? [ RadioButton ]
 
-**Screenshots:**
+**Screenshot:**
+
 ![](https://github.com/fikkybla3e/BarclaysPremierLeagueTrivial/blob/master/app/Screenshot_20180701-142032%5B1%5D.png)
