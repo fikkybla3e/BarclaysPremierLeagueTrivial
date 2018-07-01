@@ -17,5 +17,4 @@ The goal is to create an app that educates the user about the history of the Eng
 8) Which team has the highest number of league titles? [ RadioButton ]
 
 **Screenshots:**
-![](https://github.com/fikkybla3e/BarclaysPremierLeagueTrivial/blob/master/app/Screenshot_20180701-142022%5B1%5D.png)
 ![](https://github.com/fikkybla3e/BarclaysPremierLeagueTrivial/blob/master/app/Screenshot_20180701-142032%5B1%5D.png)
